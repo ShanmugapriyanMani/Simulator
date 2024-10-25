@@ -3,6 +3,7 @@ import QtQuick.Window 2.12
 import QtQuick.Controls 2.12
 import com.client.dbus
 
+// -------------- Simulator --------------
 Window {
     width: 1920
     height: 1080
