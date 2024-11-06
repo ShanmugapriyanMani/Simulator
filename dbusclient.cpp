@@ -170,7 +170,6 @@ void DbusClient::setIsAbsOn(bool newIsAbsOn)
     emit isAbsOnChanged();
 }
 
-
 bool DbusClient::isLeftIndicatorOn() const
 {
     return m_isLeftIndicatorOn;
